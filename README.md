@@ -4,7 +4,7 @@
 
 
 
-### A CPPian🐍 & Web Developer. Love to learn and explore 🚀 
+### A Web Developer. Love to learn and explore 🚀 
  
 - 👨‍💻 Third Year Student at <b>IIT (ISM)</b>.
 
