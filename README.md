@@ -6,7 +6,7 @@
 
 ### A Web Developer. Love to learn and explore 🚀 
  
-- 👨‍💻 Third Year Student at <b>IIT (ISM)</b>.
+- 👨‍💻 Final Year Student at <b>IIT (ISM)</b>.
 
 - 🔭 I’m currently working on <b>Web Development Skills</b>, <b>Competitive Programming</b>, <b>UI-UX</b>.
  
